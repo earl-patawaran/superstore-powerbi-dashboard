@@ -61,3 +61,4 @@ Interactivity: a Year slicer synced across all pages, a Region slicer on Overvie
 ## Related Projects
 
 - [SQL analysis](https://github.com/earl-patawaran/superstore-sql-analysis): 10 business questions answered in SQL on the same data
+- [Excel analysis](https://github.com/earl-patawaran/superstore-excel-analysis): pivot tables and a lookup tool on the same data
